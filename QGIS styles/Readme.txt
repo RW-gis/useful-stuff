@@ -1,1 +1,1 @@
-OSMSidewalkSHP.qml styles SHP file extracted from OSM using QuickOSM plugin using "sidewalk=*"
+OSMSidewalkSHP.qml styles shapefile (SHP) extracted from OSM using QuickOSM plugin using "sidewalk=*"
