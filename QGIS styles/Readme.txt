@@ -2,4 +2,4 @@ This is a simple style file for use with QGIS to show data about pavements ('sid
 
 OSMSidewalkSHP.qml styles shapefile (SHP) data. 
 
-QuickOSM query is to download data corresponding to "sidewalk=*"
+The relevant QuickOSM query is to download data corresponding to "sidewalk=*"
