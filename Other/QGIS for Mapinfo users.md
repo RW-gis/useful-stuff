@@ -1,4 +1,5 @@
 # QGIS for Mapinfo users
+My personal understanding of this as I learn to use QGIS having previously used Mapinfo... please let me know if any corrections are required. These pieces of information have not been checked with others and are provided in good faith.
 
 ## Key differences and some key ideas
 QGIS opens ’layers’ rather than ‘tables’ (this is the same thing with a different name).
