@@ -1,6 +1,6 @@
-##x_millimetres_on_paper=number
-##y_millimetres_on_paper=number
-##scale_to_print_at=number
+##x_millimetres_on_paper=number 285
+##y_millimetres_on_paper=number 200
+##scale_to_print_at=number 20000
 
 from qgis.core import *
 from PyQt4.QtCore import *
