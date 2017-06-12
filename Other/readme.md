@@ -1,0 +1,3 @@
+Folder contains...
+Notes for QGIS users who have previously used Mapinfo
+Two versions of an arrow/compass rose for use with QGIS print composers
